@@ -1,18 +1,15 @@
-# Hi, I’m Kopal 👋✨
+# <p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=540&lines=Hi%2C+I%27m+Kopal;Hola%2C+soy+Kopal;Bonjour%2C+je+suis+Kopal;Hallo%2C+ich+bin+Kopal" 
+    alt="Typing intro" 
+  />
+</p>
 
 I’m a Computer Science graduate who loves building clean, scalable software and exploring how AI can solve real-world problems. I enjoy working across backend systems, APIs, and modern full stack applications, with a growing focus on AI-driven systems and LLM-based workflows.
 
 I believe good engineering is a balance of logic, structure, and curiosity — and I like building things that actually work in production.
 
 ---
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=Backend+and+AI+Systems+Engineer;Clean+Architecture.+Calm+Code.;Building+Scalable+Systems+Quietly" 
-    alt="Typing intro" 
-  />
-</p>
-
 
 ## 🚀 What I’m Working On
 

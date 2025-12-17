@@ -6,6 +6,14 @@ I believe good engineering is a balance of logic, structure, and curiosity — a
 
 ---
 
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=520&lines=Backend+and+AI+Systems+Engineer;Clean+Architecture.+Calm+Code.;Building+Scalable+Systems+Quietly" 
+    alt="Typing intro" 
+  />
+</p>
+
+
 ## 🚀 What I’m Working On
 
 * Backend and full stack projects using Python, JavaScript, Node.js, and React

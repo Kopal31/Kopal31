@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I’m Kopal 👋✨
 
-<!--
-**Kopal31/Kopal31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science graduate who loves building clean, scalable software and exploring how AI can solve real-world problems. I enjoy working across backend systems, APIs, and modern full stack applications, with a growing focus on AI-driven systems and LLM-based workflows.
 
-Here are some ideas to get you started:
+I believe good engineering is a balance of logic, structure, and curiosity — and I like building things that actually work in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On
+
+* Backend and full stack projects using Python, JavaScript, Node.js, and React
+* AI-powered applications using OpenAI APIs, LangChain, and RAG pipelines
+* Improving system design fundamentals and writing cleaner, more readable code
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** Python, Java, JavaScript, SQL
+**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, FastAPI
+**AI & Cloud:** OpenAI API, LangChain, RAG, AWS
+**Databases & Tools:** MongoDB, Git, GitHub, VS Code, Vercel
+
+---
+
+## 📌 Featured Projects
+
+*(Pinned repositories below showcase my best and most relevant work)*
+
+Each project focuses on real use cases, clean architecture, and practical problem solving.
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced backend architecture and system design
+* LLMOps and production-ready AI pipelines
+* Writing better documentation and developer-friendly APIs
+
+---
+
+## 🤝 Let’s Connect
+
+* LinkedIn: [https://www.linkedin.com/in/kopal31](https://www.linkedin.com/in/kopal31)
+* GitHub: [https://github.com/Kopal31](https://github.com/Kopal31)
+* Email: [kopalsoni18@gmail.com](mailto:kopalsoni18@gmail.com)
+
+---
+
+⭐ If you find something interesting here, feel free to explore, fork, or reach out. I’m always open to learning, collaborating, and building better systems.

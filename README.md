@@ -1,7 +1,7 @@
-<!-- ===== Header: Animated Typing Intro ===== -->
+<!-- ===== Animated Header ===== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=740&lines=Hi%2C+I%27m+Kopal;+Hola%2C+soy+Kopal;+Bonjour%2C+je+suis+Kopal;+Hallo%2C+ich+bin+Kopal" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=740&lines=Hi%2C+I%27m+Kopal;Hola%2C+soy+Kopal;Bonjour%2C+je+suis+Kopal;Hallo%2C+ich+bin+Kopal" 
     alt="Typing intro" 
   />
 </p>
@@ -10,53 +10,81 @@
   <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=100&section=header" />
 </p>
 
-<!-- ===== Badges ===== -->
+<!-- ===== Quick Stats ===== -->
 <p align="center">
   <a href="https://github.com/Kopal31">
-    <img src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social" alt="Follow Me">
+    <img src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social&logo=github" alt="GitHub Followers">
   </a>
-  <img src="https://img.shields.io/github/commit-activity/m/Kopal31?color=blue" alt="Commit Activity">
-  <img src="https://img.shields.io/github/languages/top/Kopal31?color=success" alt="Main Language">
+  <img src="https://img.shields.io/github/commit-activity/m/Kopal31?color=blue&label=Monthly%20Commits" alt="Commit Activity">
+  <img src="https://img.shields.io/github/languages/top/Kopal31?color=success&label=Main%20Language" alt="Main Language">
 </p>
 
 ---
 
-## 💼 About Me
+## 👨‍💻 Professional Profile
 
-I am a Computer Science graduate focused on **backend engineering and AI-driven systems**.  
-I build *clean, scalable APIs*, *reliable services*, and *production-ready tools* with a thoughtful engineering mindset.
+**Computer Science Graduate** | **Backend & AI Systems Engineer**  
 
----
-
-## 🧠 What I Build
-
-- Backend services and RESTful APIs with Node.js & Python  
-- Full stack web apps using React, Next.js, FastAPI  
-- AI & LLM workflows using OpenAI API and LangChain  
-- Production-focused solutions with attention to testing and maintainability
+I specialize in architecting and building **scalable backend systems** and **AI-driven solutions**. My approach combines clean code principles with a production-focused mindset to deliver reliable, maintainable, and efficient software.
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Technical Expertise
+
+### 🏗️ **Backend Development**
+- **API Architecture**: Designing and implementing RESTful APIs with Node.js & Python (FastAPI, Express)
+- **Service Reliability**: Building robust, scalable microservices and monolithic applications
+- **Database Design**: Working with both SQL and NoSQL databases for optimal data management
+
+### 🤖 **AI & LLM Integration**
+- **Workflow Automation**: Developing intelligent systems using OpenAI API and LangChain
+- **Production AI**: Implementing LLM-powered features with attention to performance and cost-efficiency
+- **Pipeline Development**: Creating end-to-end AI workflows from data processing to model serving
+
+### 🚀 **Full-Stack Capabilities**
+- **Modern Frontends**: Building responsive interfaces with React & Next.js
+- **End-to-End Solutions**: Connecting frontend applications with high-performance backends
+- **DevOps Practices**: Implementing testing, CI/CD, and maintainability best practices
+
+---
+
+## 🛠 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,fastapi,mongodb,aws,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,aws,docker,git,github,linux&theme=dark&perline=9" />
 </p>
+
+*Additional tools: LangChain, OpenAI API, Jest, Pytest, REST, GraphQL*
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Development Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kopal31&show_icons=true&theme=tokyonight&hide_border=true" width="400" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopal31&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kopal31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopal31&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopal31&theme=tokyonight&bg_color=0f172a&hide_border=true&area=true&area_color=3b82f6" width="800" alt="Contribution Graph" />
 </p>
 
 ---
 
-## 📌 Featured Work
+## 📫 Connect With Me
 
-Here are a few projects that best represent my work:
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:[YOUR-EMAIL]">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="[YOUR-PORTFOLIO]">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-👉 *Add 1–3 with small GIFs or screenshots* — e.g.:
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=50&section=footer" />
+</p>

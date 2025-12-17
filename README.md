@@ -66,17 +66,13 @@ I specialize in architecting and building **scalable backend systems** and **AI-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR-LINKEDIN]">
+  <a href="https://www.linkedin.com/in/kopal31">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[YOUR-EMAIL]">
+  <a href="mailto:kopalsoni18@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="[YOUR-PORTFOLIO]">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  <a href="https://leetcode.com/u/kopal31_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=50&section=footer" />
 </p>

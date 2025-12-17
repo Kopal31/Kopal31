@@ -1,55 +1,62 @@
-# <p align="center">
+<!-- ===== Header: Animated Typing Intro ===== -->
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=540&lines=Hi%2C+I%27m+Kopal;Hola%2C+soy+Kopal;Bonjour%2C+je+suis+Kopal;Hallo%2C+ich+bin+Kopal" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=740&lines=Hi%2C+I%27m+Kopal;+Hola%2C+soy+Kopal;+Bonjour%2C+je+suis+Kopal;+Hallo%2C+ich+bin+Kopal" 
     alt="Typing intro" 
   />
 </p>
 
-I’m a Computer Science graduate who loves building clean, scalable software and exploring how AI can solve real-world problems. I enjoy working across backend systems, APIs, and modern full stack applications, with a growing focus on AI-driven systems and LLM-based workflows.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=100&section=header" />
+</p>
 
-I believe good engineering is a balance of logic, structure, and curiosity — and I like building things that actually work in production.
+<!-- ===== Badges ===== -->
+<p align="center">
+  <a href="https://github.com/Kopal31">
+    <img src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social" alt="Follow Me">
+  </a>
+  <img src="https://img.shields.io/github/commit-activity/m/Kopal31?color=blue" alt="Commit Activity">
+  <img src="https://img.shields.io/github/languages/top/Kopal31?color=success" alt="Main Language">
+</p>
 
 ---
 
-## 🚀 What I’m Working On
+## 💼 About Me
 
-* Backend and full stack projects using Python, JavaScript, Node.js, and React
-* AI-powered applications using OpenAI APIs, LangChain, and RAG pipelines
-* Improving system design fundamentals and writing cleaner, more readable code
+I am a Computer Science graduate focused on **backend engineering and AI-driven systems**.  
+I build *clean, scalable APIs*, *reliable services*, and *production-ready tools* with a thoughtful engineering mindset.
+
+---
+
+## 🧠 What I Build
+
+- Backend services and RESTful APIs with Node.js & Python  
+- Full stack web apps using React, Next.js, FastAPI  
+- AI & LLM workflows using OpenAI API and LangChain  
+- Production-focused solutions with attention to testing and maintainability
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, JavaScript, SQL
-**Frameworks & Libraries:** React.js, Next.js, Node.js, Express.js, FastAPI
-**AI & Cloud:** OpenAI API, LangChain, RAG, AWS
-**Databases & Tools:** MongoDB, Git, GitHub, VS Code, Vercel
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,fastapi,mongodb,aws,git&theme=dark" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Stats
 
-*(Pinned repositories below showcase my best and most relevant work)*
-
-Each project focuses on real use cases, clean architecture, and practical problem solving.
-
----
-
-## 🌱 Currently Learning
-
-* Advanced backend architecture and system design
-* LLMOps and production-ready AI pipelines
-* Writing better documentation and developer-friendly APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kopal31&show_icons=true&theme=tokyonight&hide_border=true" width="400" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopal31&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
+## 📌 Featured Work
 
-* LinkedIn: [https://www.linkedin.com/in/kopal31](https://www.linkedin.com/in/kopal31)
-* GitHub: [https://github.com/Kopal31](https://github.com/Kopal31)
-* Email: [kopalsoni18@gmail.com](mailto:kopalsoni18@gmail.com)
+Here are a few projects that best represent my work:
 
----
+👉 *Add 1–3 with small GIFs or screenshots* — e.g.:
 
-⭐ If you find something interesting here, feel free to explore, fork, or reach out. I’m always open to learning, collaborating, and building better systems.

@@ -58,17 +58,9 @@ I specialize in architecting and building **scalable backend systems** and **AI-
 
 ---
 
-## 📊 Development Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kopal31&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="400" alt="GitHub Stats" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kopal31&theme=tokyonight&hide_border=true" width="400" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopal31&theme=github-dark&bg_color=0f172a&hide_border=true&area=true&area_color=3b82f6&line=3b82f6&point=ffffff" width="800" alt="Contribution Graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopal31&theme=tokyonight&bg_color=0f172a&hide_border=true&area=true&area_color=3b82f6" width="800" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## 📫 Connect With Me

@@ -6,17 +6,11 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=3B82F6&height=90&section=header" />
-</p>
-
----
-
 ## 👨‍💻 Professional Profile
 
-**Computer Science Graduate** | **Backend & AI Systems Engineer**  
+**Computer Science Graduate** | **Software Developer**  
 
-I specialize in architecting and building **scalable backend systems** and **AI-driven solutions**. My approach combines clean code principles with a production-focused mindset to deliver reliable, maintainable, and efficient software.
+I specialize in architecting and building **scalable systems** and **AI-driven solutions**. My approach combines clean code principles with a production-focused mindset to deliver reliable, maintainable, and efficient software.
 
 ---
 
@@ -52,7 +46,7 @@ I specialize in architecting and building **scalable backend systems** and **AI-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kopal31&theme=github-dark&bg_color=0f172a&hide_border=true&area=true&area_color=3b82f6&line=3b82f6&point=ffffff" width="800" alt="Contribution Graph" />
 </p>
----
+
 
 ## 📫 Connect With Me
 

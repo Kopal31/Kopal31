@@ -1,14 +1,16 @@
 <!-- ===== Animated Header ===== -->
+<!-- ===== Animated Header ===== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=22&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=740&lines=Hi%2C+I%27m+Kopal;Hola%2C+soy+Kopal;Bonjour%2C+je+suis+Kopal;Hallo%2C+ich+bin+Kopal" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kopal;Software+Developer;Backend+%26+API+Systems;Java+%7C+Python+%7C+REST+APIs" 
     alt="Typing intro" 
   />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=90&section=header" />
 </p>
+
 
 <!-- ===== Quick Stats ===== -->
 <p align="center">

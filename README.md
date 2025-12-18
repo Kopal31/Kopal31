@@ -1,25 +1,25 @@
 <!-- ===== Animated Header ===== -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kopal;Software+Developer;Backend+%26+API+Systems;Java+%7C+Python+%7C+REST+APIs" 
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=880&lines=Hi%2C+I%27m+Kopal;Software+Developer;Backend+%26+API+Systems;Java+%7C+Python+%7C+REST+APIs" 
     alt="Typing intro" 
   />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=0f2027&height=90&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=3B82F6&height=90&section=header" />
 </p>
 
 
 <!-- ===== Quick Stats ===== -->
 <p align="center">
   <a href="https://github.com/Kopal31">
-    <img src="https://img.shields.io/github/followers/Kopal31?label=Followers&style=social" />
+    <img 
+      src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social" 
+      alt="GitHub Follow"
+    />
   </a>
-  <img src="https://img.shields.io/github/stars/Kopal31?affiliations=OWNER&style=social" />
 </p>
-
-
 ---
 
 ## 👨‍💻 Professional Profile

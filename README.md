@@ -1,5 +1,4 @@
 <!-- ===== Animated Header ===== -->
-<!-- ===== Animated Header ===== -->
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=20&duration=3500&pause=1200&color=9CA3AF&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Kopal;Software+Developer;Backend+%26+API+Systems;Java+%7C+Python+%7C+REST+APIs" 
@@ -15,11 +14,11 @@
 <!-- ===== Quick Stats ===== -->
 <p align="center">
   <a href="https://github.com/Kopal31">
-    <img src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social&logo=github" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Kopal31?label=Followers&style=social" />
   </a>
-  <img src="https://img.shields.io/github/commit-activity/m/Kopal31?color=blue&label=Monthly%20Commits" alt="Commit Activity">
-  <img src="https://img.shields.io/github/languages/top/Kopal31?color=success&label=Main%20Language" alt="Main Language">
+  <img src="https://img.shields.io/github/stars/Kopal31?affiliations=OWNER&style=social" />
 </p>
+
 
 ---
 

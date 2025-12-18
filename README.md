@@ -10,16 +10,6 @@
   <img src="https://capsule-render.vercel.app/api?type=soft-shadow&color=3B82F6&height=90&section=header" />
 </p>
 
-
-<!-- ===== Quick Stats ===== -->
-<p align="center">
-  <a href="https://github.com/Kopal31">
-    <img 
-      src="https://img.shields.io/github/followers/Kopal31?label=Follow&style=social" 
-      alt="GitHub Follow"
-    />
-  </a>
-</p>
 ---
 
 ## 👨‍💻 Professional Profile
